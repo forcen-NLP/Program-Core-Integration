@@ -1,2 +1,3 @@
-# Program-Core-Integration
-Introduction of Defi multidimensional recognition framework and working logic
+# Introduction to Defi Multidimensional Identification Framework
+
+This framework is the core part of FEN. It consists of a wallet account identification module, a processing fee scanning authentication module, a personal data import module, a claims processing automation module and a business intelligence module. In the past, we have released some of the FEN code on Github. This time, we will integrate all the code released in the past and slowly expose all the core code of FEN technology, which includes 202,086 lines in total. As the project progresses, we will continue to release and add code for further development.
